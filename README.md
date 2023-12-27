@@ -49,12 +49,16 @@ The parametric form of the matrix is displayed as a linear combination of variab
 
 You can customize the script by modifying the code to read matrices from different file locations or make any other desired changes.
 
+## Acknowledgments
+
+- [SymPy](https://www.sympy.org/) - The library used for symbolic mathematics in Python.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgments
+## Author
 
-- [SymPy](https://www.sympy.org/) - The library used for symbolic mathematics in Python.
+[Vikranth Udandarao](https://github.com/Vikranth3140)
 
 Feel free to contribute to this project or provide feedback by opening issues or pull requests.
