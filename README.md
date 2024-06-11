@@ -26,7 +26,7 @@ pip install sympy
 2. Run the script using the following command:
 
 ```bash
-python matrix_operations.py
+python main.py
 ```
 
 The script will perform the matrix operations and display the results in the console.
@@ -56,9 +56,3 @@ You can customize the script by modifying the code to read matrices from differe
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
-
-## Author
-
-[Vikranth Udandarao](https://github.com/Vikranth3140)
-
-Feel free to contribute to this project or provide feedback by opening issues or pull requests.
